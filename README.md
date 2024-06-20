@@ -1,13 +1,18 @@
 # publicdata
 
-xxxxxxxxxxxxxxxxx
+----------------
 
-all right, let's download it...
+this repo is used for testing when:
 
-1, anonymous
- - download as zip
- - clone
+- "ip disclosure" disabled (default)
+- "api request" disabled (default)
+- public repo
 
-2, authed
-- download
-- clone
+
+
+..........
+
+when the settings changed, should use a new repo, not this one
+
+
+
